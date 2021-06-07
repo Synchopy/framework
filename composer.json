@@ -1,0 +1,11 @@
+{
+    "name": "synchopy/framework",
+    "description": "Toy Framework for Studying purposes",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Synchopy\\Framework\\": "src/"
+        }
+    },
+    "require": {}
+}
